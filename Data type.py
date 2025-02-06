@@ -16,8 +16,6 @@ details={
 
 
 
-
-
 print(cars)
 print(fruits)
 print(countries)
